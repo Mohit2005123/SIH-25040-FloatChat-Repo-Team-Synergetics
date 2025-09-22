@@ -1,26 +1,31 @@
-# PS Chosen SIH Hackathon
+# 25040
 
 This README provides an overview of the project, including team details, relevant links, tasks completed, tech stack, key features, and steps to run the project locally.
 
 ## Team Details
 
-**Team Name:** TEAM_NAME_HERE
+**Team Name:** Synergetics
 
-**Team Leader:** [@USERNAME](https://github.com/USERNAME)
+**Team Leader:** [@Mohit2005123](https://github.com/Mohit2005123)
 
 **Team Members:**
 
-- **MEMBER_1** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_2** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_3** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_4** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
+- **Mohit Mongia** - 2023UCI8007- [@Mohit2005123](https://github.com/Mohit2005123)
+- **Sparsh Gulati** - 2023UCI8031 - [@USERNAME](https://github.com/sparsh7637)
+- **Abdullah Ansari** - 2023UCI8033 - [@USERNAME](https://github.com/Abdullah-426)
+- **Vasu Reena Kush Varshneya** - 2023UCI8003 - [@USERNAME](https://github.com/Vasu-Varshneya)
 - **MEMBER_5** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
 - **MEMBER_6** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
 
 ## Project Links
 
 - **SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
-- **Video Demonstration:** [Watch Video](UNLISTED YOUTUBE LINK)
+- **Video Demonstration:** [Watch Video](https://www.youtube.com/watch?v=hxyMHYMqSzc)
 - **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)
 - **Source Code:** [GitHub Repository](GITHUB LINK TO THE REPO)
-- **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)
+- **Additional Resources:**  
+  - [IFREMER](https://data-argo.ifremer.fr/geo/)  
+  - [ERDDAP](https://erddap.ifremer.fr/erddap/tabledap/ArgoFloats.html)  
+  - [SCIENCE DIRECT](https://www.sciencedirect.com/science/article/pii/S0078323422000975)  
+  - [Argo Data Management User's Manual (PDF)](https://www.aoml.noaa.gov/phod/docs/Pouliquen_ArgoDataManagment.pdf)
+  - [Learning to Reason with LLMs (OpenAI)](https://openai.com/index/learning-to-reason-with-llms/)
