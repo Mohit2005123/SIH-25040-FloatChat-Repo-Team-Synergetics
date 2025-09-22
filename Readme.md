@@ -11,18 +11,18 @@ This README provides an overview of the project, including team details, relevan
 **Team Members:**
 
 - **Mohit Mongia** - 2023UCI8007- [@Mohit2005123](https://github.com/Mohit2005123)
-- **Sparsh Gulati** - 2023UCI8031 - [@USERNAME](https://github.com/sparsh7637)
-- **Abdullah Ansari** - 2023UCI8033 - [@USERNAME](https://github.com/Abdullah-426)
-- **Vasu Reena Kush Varshneya** - 2023UCI8003 - [@USERNAME](https://github.com/Vasu-Varshneya)
-- **MEMBER_5** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
-- **MEMBER_6** - ROLL_NUMBER - [@USERNAME](https://github.com/USERNAME)
+- **Sparsh Gulati** - 2023UCI8031 - [@sparsh7637](https://github.com/sparsh7637)
+- **Abdullah Ansari** - 2023UCI8033 - [@Abdullah-426](https://github.com/Abdullah-426)
+- **Vasu Reena Kush Varshneya** - 2023UCI8003 - [@Vasu-Varshneya](https://github.com/Vasu-Varshneya)
+- **Kritika Dhiman** - 2023UEA6649 - [@Kritika-Dhiman](https://github.com/Kritika-Dhiman)
+- **Arpita Sinha** - 2023UEA7645 - [@arpita-sinhaa](https://github.com/arpita-sinhaa)
 
 ## Project Links
 
 - **SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
 - **Video Demonstration:** [Watch Video](https://www.youtube.com/watch?v=hxyMHYMqSzc)
 - **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)
-- **Source Code:** [GitHub Repository](GITHUB LINK TO THE REPO)
+- **Source Code:** [GitHub Repository](https://github.com/Mohit2005123/SIH-25040-FloatChat-Repo-Team-Synergetics)
 - **Additional Resources:**  
   - [IFREMER](https://data-argo.ifremer.fr/geo/)  
   - [ERDDAP](https://erddap.ifremer.fr/erddap/tabledap/ArgoFloats.html)  
