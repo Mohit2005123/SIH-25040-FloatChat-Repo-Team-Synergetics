@@ -19,7 +19,7 @@ This README provides an overview of the project, including team details, relevan
 
 ## Project Links
 
-- **SIH Presentation:** [Final SIH Presentation](URL TO PPT UPLOADED TO GITHUB)
+- **SIH Presentation:** [Final SIH Presentation](https://github.com/Mohit2005123/SIH-25040-FloatChat-Repo-Team-Synergetics/blob/master/files/Internal_PPT_Synergetics.pdf)
 - **Video Demonstration:** [Watch Video](https://www.youtube.com/watch?v=hxyMHYMqSzc)
 - **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)
 - **Source Code:** [GitHub Repository](https://github.com/Mohit2005123/SIH-25040-FloatChat-Repo-Team-Synergetics)
